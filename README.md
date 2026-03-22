@@ -1,4 +1,4 @@
-📊 Electro Hub Sales Dashboard (Power BI Project)
+### 📊 Electro Hub Sales Dashboard (Power BI Project)
 
 ### 1 Project Overview 
 This project analyzes sales performance for an electronics business using Power BI. 
