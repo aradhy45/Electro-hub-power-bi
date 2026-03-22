@@ -10,14 +10,14 @@ Identify top-performing products
 Understand customer purchasing behavior
 
 ### 3 Dataset
-File Name: Store Data.xlsx
-Source: Self-collected / practice dataset
-Format: Excel (.xlsx)
+* File Name: Store Data.xlsx
+* Source: Self-collected / practice dataset
+* Format: Excel (.xlsx)
 
 ### 4 Tools Used
-Power BI
-Microsoft Excel
-DAX
+* Power BI
+* Microsoft Excel
+* DAX
 
 ## 📊 Key Business Analysis & Insights
 
